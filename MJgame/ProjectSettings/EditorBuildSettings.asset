@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Roby.unity
     guid: d57ea484a07d1dc4ba55376490a6e96d
+  - enabled: 1
+    path: Assets/Scenes/Juwon.unity
+    guid: f4f0ac46843c5114cb19d4aa83119a5e
   m_configObjects: {}
